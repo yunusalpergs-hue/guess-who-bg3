@@ -12,8 +12,8 @@
     "_comment": "Romance behavior settings",
     "BumpApprovalToMax": true,
     "ApprovalBoostAmount": 100,
-    "EnforceMonogamy": true,
-    "MultiRomanceAllowed": false,
+    "EnforceMonogamy": false,
+    "MultiRomanceAllowed": true,
     "CloseAvailableFlags": true
   },
 
